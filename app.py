@@ -45,10 +45,4 @@ async def create_item(item: Item):
 
 #localhost:8000/docs
 
-# step1: create rep
-# git init
-# git remote add origin https://github.com/muhammadabrar/ecu_priamry.git
-# git add .
-# git commit -m initial
-# git branch -M main
-# git push -u origin main
+# https://github.com/muhammadabrar/backend.git
